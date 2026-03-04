@@ -39,11 +39,11 @@ Arrive ready to lead: tools, access, and safety posture in place.
 
 **Checklist**
 
-- [ ] Phone battery                     Checked
+- [ ] Clock In                          Checked
+- [ ] Phone battery                     Checked → If Low, set low batt mode
 - [ ] Radio / comms                     Checked
 - [ ] PPE on-hand                       Set
 - [ ] Weather readiness                 Checked → Cleats/salt plan if freezing
-- [ ] GroupMe access                    Confirmed
 - [ ] Keys / access basics              Confirmed → Line room / shop / gates as needed
 
 ---
