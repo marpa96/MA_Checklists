@@ -1,0 +1,117 @@
+# Fuel QC — Daily Afternoon Closeout / NU Checklist
+**Version:** v1.0  
+**Updated:** 2026-03-07  
+**Duration:** 00:15
+
+---
+
+## Metadata
+
+**Purpose**  
+Close remaining daily inspections at end of day and correctly apply Not Used status where needed.
+
+**Trigger**  
+Last part of afternoon shift before day closeout.
+
+**Owner**  
+Afternoon Shift / Fuel QC
+
+**Required Items**  
+JQC access, remaining-side queue, daily inspection records
+
+**Inputs**  
+Open daily inspections, usage history for each truck, completed fueling data
+
+**Outputs**  
+All daily inspections moved to completed or escalated
+
+**Stop Conditions**  
+Open discrepancy unresolved, unclear equipment status, missing required data with no resolution path
+
+---
+
+## PREP
+
+**Objective**  
+Review all remaining daily inspections before closeout.
+
+**Checklist**
+
+- [ ] Remaining-side queue              Reviewed
+- [ ] Each truck status                 Checked
+- [ ] Fueling activity for day          Confirmed
+- [ ] Top-off activity for day          Confirmed
+- [ ] Single-point activity for day     Confirmed
+
+---
+
+## CORE
+
+**Objective**  
+Decide whether each inspection is completed with data or completed as Not Used.
+
+**Checklist**
+
+- [ ] Pressure-based fields             Reviewed
+- [ ] Flow-based fields                 Reviewed
+- [ ] Bottom-load pre-check fields      Reviewed
+- [ ] Unfinished items                  Identified
+
+### DECISION: Were required data points generated today?
+
+**YES**
+- Enter remaining values
+- Complete inspection
+- Move record to completed side
+
+**NO**
+- Click NU
+- Mark unused sections as Not Used
+- Move record to completed side
+
+### DECISION: Is the inspection incomplete because of an issue rather than lack of use?
+
+**YES**
+- Do not mask issue with NU
+- Escalate to supervisor
+- RECORD: Log discrepancy
+
+**NO**
+- Complete normal closeout
+
+---
+
+## HANDOFF
+
+**Objective**  
+Ensure end-of-day ownership is clear.
+
+**Checklist**
+
+- [ ] Morning-shift closeout            N/A → Not their function
+- [ ] Afternoon-shift closeout          Complete
+- [ ] Completed-side queue              Verified
+
+---
+
+## REFERENCES
+
+**Objective**  
+Record the meaning and correct use of NU.
+
+**Checklist**
+
+- [ ] NU meaning                        Noted → Not Used
+- [ ] NU timing                         Verified → End of afternoon shift
+- [ ] NU purpose                        Noted → Section not applicable that day
+- [ ] NU misuse                         Avoided → Do not hide real issue
+
+---
+
+## Change Log
+
+**v1.0**
+
+- Added end-of-day NU decision flow
+- Added afternoon ownership rule
+- Added misuse warning for NU
