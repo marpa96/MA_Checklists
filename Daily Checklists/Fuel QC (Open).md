@@ -43,7 +43,7 @@ Confirm the correct unit, tools, forms, and system access before beginning daily
 - [ ] Facility ISP form Open
 - [ ] White bucket Present
 - [ ] Sump tools Ready
-- [ ] JQC access Verified
+- [ ] JFQC access Verified
 - [ ] Inspection route Defined
 - [ ] Fuel area condition Checked
 
