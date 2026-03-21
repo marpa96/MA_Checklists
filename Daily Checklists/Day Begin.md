@@ -1,4 +1,4 @@
-# Modern Aviation — Supervisor Start-of-Shift Checklist (Daily)
+# Modern Aviation — Start-of-Shift Checklist (Daily)
 
 **Version:** v1.0  
 **Updated:** 2026-03-04
@@ -38,12 +38,14 @@ CRITICAL safety event, aircraft emergency, management directive to pause ops, un
 **Objective**  
 Arrive ready to lead: tools, access, and safety posture in place.
 
-**Checklist**
-
-- [ ] Clock In Checked
+- [ ] Clock In → Checked
 - [ ] Phone battery Checked → If Low, set low batt mode
 - [ ] Radio / comms Checked
-- [ ] PPE on-hand Set
+- [ ] Ear Protection → In Leg Pouch
+- [ ] Backup ear Protection → In Leg Pouch
+- [ ] Vest → Know it's location
+- [ ] Leather Gloves → In Leg Pouch
+- [ ] Chemical-Resistant Gloves → On Clip
 - [ ] Weather readiness Checked → Cleats/salt plan if freezing
 - [ ] Keys / access basics Confirmed → Line room / shop / gates as needed
 
@@ -54,87 +56,97 @@ Arrive ready to lead: tools, access, and safety posture in place.
 **Objective**  
 Build the “operational picture” fast: schedule, priorities, constraints, and compliance risk.
 
-**Chat Triage**
+### **Chat Triage**
 
-- [ ] Chat triage (3 channels) Complete
-  - [ ] Modern Aviation chat Checked → Early/late ops, hangar requests, fuel drops, notices
-  - [ ] MA-Supervisors chat Checked → Dwight/Ahsan priorities, audits, cleaning, training, GSE notes
-  - [ ] Altus/Modern Ops chat Checked → MX moves, engine runs, AOG, door/heat issues
+- [ ] Modern Aviation chat Checked
+  - [ ] Early/late ops posts → Online/POL/DEP times
+  - [ ] Hangar Movements → Assignments + Any hangars closed? + Any hangars full? + “leave in hangar” notes
+  - [ ] Fuel/QC/drop notices → Drops received + OOS GSE + additional audits due
+  - [ ] Weather/ramp alerts → Black ice + cleats + salting + snow access issues
 
-- [ ] Scheduling Check → Who is supposed to be present today?
-- [ ] Staffing Check → Who is where (North/South)?, breaks, meetings
-- [ ] Early ops / late ops list → Tails, online/POL/DEP, “leave in hangar” flags
-- [ ] Altus/MX requests flagged → Jose Castillo / Chris Scida / Leo Katsaros / Zarzano / Domenic
-- [ ] AOG mentions Noted → Tail + location + need
-- [ ] CRITICAL: Acknowledge pending ops Sent → Copy + constraint + ETA (no silence)
-- [ ] Staffing reality check Confirmed → Who is where (North/South)?, breaks, meetings
-- [ ] Dwight compliance scan Noted → Audits / deice checks / cones-chocks / lounge / QC due
-- [ ] Shift mini-plan (Notes) Logged
-  - [ ] Top 3 time-critical moves Logged
-  - [ ] Top 2 compliance tasks Logged
-  - [ ] Top 1 constraint/risk Logged → Staffing/equipment/weather/doors
+- [ ] MA-Supervisors chat Checked
+
+- [ ] Altus/Modern Ops chat Checked
+  - [ ] AOG / “ASAP” requests → Tail + what they need + when they need it
+  - [ ] Engine runs / defuel / moves → Time windows + staging location
+  - [ ] Follow-ups/escalations → Tag management
+
+- [ ] Today’s schedule picture → Top 3 tails + times
+- [ ] Coverage picture → Who is North/South + breaks/meetings
+- [ ] CRITICAL: Pending requests reply Reply → Copy + constraint + ETA
+- [ ] Shift priorities
+  - [ ] Top 3 time-critical actions → Noted
+  - [ ] Top 2 compliance actions → Noted
+  - [ ] Main constraint/risk → Noted
 
 ---
 
 ## CORE
 
 **Objective**  
+Verify readiness and remove repeat-failure points: risk assessment, deice, fuel/QC, blocking, lounge, and fast ETAs.
+
+### **Ramp Walk**
+
+- [ ] Safety lanes / exits → Access Clear
+- [ ] Fire extinguishers → Access Clear
+- [ ] FOD → Checked
+- [ ] Slip/Trip hazards
+
+### **GSE Check**
+
+- [ ] Check GSE
+  - [ ] Fueling Mats → Available
+  - [ ] Ladders → On All Trucks
+  - [ ] Fire extinguishers → Pressure in the green
+  - [ ] Fire extinguishers → Inspections up to date
+  - [ ] Grounding wires → Checked
+  - [ ] Chocks → On All GSE
+
+### **QC**
+
+- [ ] QC's
+
+### **Risk Assesment**
+
+- [ ] Activities expected
+  - [ ] Aircraft fueling → Check if Needed
+  - [ ] Aircraft arrivals / departures → Check if Needed
+  - [ ] Aircraft towing → Check if Needed
+  - [ ] Stacking hangars → Check if Needed
+- [ ] Facility maintenance → Check if Needed
+- [ ] Any events going on? → Verify date and time
+
+### **Weather**
+
+- [ ] Check weather for the day/shift
+
+### **Human Factors**
+
+- [ ] Least experienced crew member → Noted
+- [ ] Ask the guys how they slept
+- [ ] Ask the guys if they worked late yesterday
+- [ ] Ask the guys how they're feeling
+
+### **If Fueling Expected**
+
+- [ ] Fueling QC's → Check completion
+- [ ] Fuel farm / holding tanks daily → Verified / incomplete noted
+- [ ] Accesories
+  - [ ] Gloves / protective clothing → Available
+
+**If Towing Expected**
+
+- [ ] Check if needed
+
+**Altus / MX Comms Discipline**
+
+- [ ] Requests acknowledged fast → Sent
+- [ ] ETAs updated if slipping → Sent
+- [ ] Wing-walker need → Flagged if needed
+
+**Objective**  
 Verify readiness and remove the repeat-failure points: deice, fuel/QC, blocking, lounge, and fast ETAs.
-
-**Risk Assesment Report**
-
-- [ ] Ramp walk (primary base first) Complete
-  - [ ] Safety lanes / exits Checked → No equipment blocking doors/exits
-  - [ ] Fire extinguishers Checked → Not blocked
-  - [ ] Hangar door alignment Checked → Heat indicators aligned (Hangar C procedure if applicable)
-  - [ ] FOD / slip hazards Checked → Ice/black ice addressed
-
-- [ ] De-Icing Truck Checklist → Complete
-  - [ ] Deice truck status Checked → OOS status known and shared
-  - [ ] Running fuel level Checked
-  - [ ] Type I level Checked → Based on paperwork (not guess)
-  - [ ] Type IV level Checked → If applicable / tank limits noted
-  - [ ] RECORD: Daily deice checklist Logged → No sticky-note logging
-  - [ ] Binder inventory numbers Verified → Updated if changed
-
-- [ ] Fuel/QC readiness Complete
-  - [ ] JFQC/RTS truck status Checked → No unintended OOS blocks QC logging
-  - [ ] QC due items (today) Noted → Mogas / Diesel / Generators / trucks / self-serve
-  - [ ] Fuel farm pump status Checked → Known working / issue noted
-  - [ ] Leaks / obvious defects Checked → 5250/521/etc. as applicable
-  - [ ] RECORD: Fuel drops status Noted → Jet A / Avgas / Mogas drops received + paperwork location
-
-- [ ] West Side Lounge standard Complete
-  - [ ] Garbage removed Checked
-  - [ ] Paper goods stocked Checked → TP / paper towels
-  - [ ] Soap stocked Checked
-  - [ ] Surfaces / glass Checked
-  - [ ] Vacuum / floor Checked
-
-- [ ] Cones / chocks discipline Checked → Stored neatly / staged correctly
-
-- [ ] Assign owners (no “spray tasks”) Complete
-  - [ ] Deice checks owner Assigned → (e.g., Thomas Doll / Slaw / Hunter)
-  - [ ] Audits owner Assigned → (e.g., Hunter / Slaw / Lucas)
-  - [ ] Lounge owner Assigned → (e.g., Zack / Eric / Thomas)
-  - [ ] Altus moves lead Assigned → Single point of control (e.g., Eric / Chris F)
-  - [ ] Facilities owner Assigned → Harvard / Juan for snow/heat/doors
-
-- [ ] Altus/MX comms discipline Complete
-  - [ ] Requests acknowledged fast Sent → Copy + ETA
-  - [ ] ETAs updated if slipping Sent → Before they ping again
-  - [ ] Wing-walker need flagged Noted → Ask MX for support if short
-
-- [ ] CSR comms discipline Complete
-  - [ ] Constraints shared Noted → Staffing/doors/OOS/weather
-  - [ ] Customer expectations confirmed Confirmed → Fees, “must go in hangar,” “wait for crew”
-
-- [ ] RECORD: MaintainX entries quality Verified
-  - [ ] Picture/video attached Confirmed
-  - [ ] Description clear Confirmed
-  - [ ] Unit # + location Confirmed
-
----
 
 ## CLOSEOUT
 
@@ -213,15 +225,6 @@ Lock in control: confirm critical tasks are tracked, escalations sent, and next 
 
 </details>
 
-<details>
-<summary>Media / law enforcement calls (incident)</summary>
-
-- [ ] HOLD: Do not share details Confirmed
-- [ ] HANDOFF: Forward to management Sent
-- [ ] RECORD: Caller info Logged → Name/agency/number/time
-
-</details>
-
 ---
 
 ## REFERENCES
@@ -248,10 +251,12 @@ Lock in control: confirm critical tasks are tracked, escalations sent, and next 
 
 ---
 
-## Change Log
+## Considerations for Later checklists
 
-**v1.0**
+**Assign Owners (No “Spray Tasks”)**
 
-- Built daily supervisor start-of-shift routine from Modern/Altus/MA-Supervisors chat patterns
-- Added AOG/deice/fuel/JFQC/snow exception playbooks aligned to recurring escalations
-- Embedded named stakeholders and handoff paths for accountability and speed
+- [ ] Deice checks owner → Assigned
+- [ ] Audits owner → Assigned
+- [ ] Lounge owner → Assigned
+- [ ] Altus moves lead → Assigned
+- [ ] Facilities owner → Assigned
