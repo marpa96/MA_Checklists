@@ -1,7 +1,8 @@
 # Modern Aviation — Start-of-Shift Checklist (Daily)
 
-**Version:** v1.0  
-**Updated:** 2026-03-04
+**Version:** v1.5  
+**Updated:** 2026-03-21
+**Duration (Approx.):** 00:35
 
 ---
 
@@ -109,6 +110,7 @@ Verify readiness and remove repeat-failure points: risk assessment, deice, fuel/
 
 ### **Risk Assesment**
 
+- [ ] Check weather for the day/shift
 - [ ] Activities expected
   - [ ] Aircraft fueling → Check if Needed
   - [ ] Aircraft arrivals / departures → Check if Needed
@@ -116,10 +118,6 @@ Verify readiness and remove repeat-failure points: risk assessment, deice, fuel/
   - [ ] Stacking hangars → Check if Needed
 - [ ] Facility maintenance → Check if Needed
 - [ ] Any events going on? → Verify date and time
-
-### **Weather**
-
-- [ ] Check weather for the day/shift
 
 ### **Human Factors**
 
@@ -135,19 +133,6 @@ Verify readiness and remove repeat-failure points: risk assessment, deice, fuel/
 - [ ] Accesories
   - [ ] Gloves / protective clothing → Available
 
-**If Towing Expected**
-
-- [ ] Check if needed
-
-**Altus / MX Comms Discipline**
-
-- [ ] Requests acknowledged fast → Sent
-- [ ] ETAs updated if slipping → Sent
-- [ ] Wing-walker need → Flagged if needed
-
-**Objective**  
-Verify readiness and remove the repeat-failure points: deice, fuel/QC, blocking, lounge, and fast ETAs.
-
 ## CLOSEOUT
 
 **Objective**  
@@ -155,8 +140,8 @@ Lock in control: confirm critical tasks are tracked, escalations sent, and next 
 
 **Checklist**
 
-- [ ] Critical tasks status Checked → Early/late ops tails on track
-- [ ] AOG status check Checked → If open, owner + ETA still valid
+- [ ] Early/late ops → Check
+- [ ] AOG status check → If open, owner + ETA still valid
 - [ ] Dwight-facing items updated Sent → Audits/deice/QC/lounge exceptions
 - [ ] Ahsan-facing items updated Sent → Staffing constraints, move backlog, escalation risks
 - [ ] CSR-facing items updated Sent → Delays, hangar constraints, OOS services, fees

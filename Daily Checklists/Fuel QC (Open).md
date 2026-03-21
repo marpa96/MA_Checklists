@@ -58,17 +58,16 @@ Perform the once-per-24-hour sump and record the preliminary morning fuel-qualit
 
 - [ ] Sump cycle Verified → Within 24 hours
 
-- [ ] Tank Checked
-  - [ ] Tank sump Complete
-  - [ ] Sample appearance Observed
-  - [ ] Visible water None
-  - [ ] Sediment / debris None
+- [ ] Sumping
+  - [ ] Number of Tanks → Checked
+  - [ ] Tank → Sump
+  - [ ] Sample appearance → Observed
+    - [ ] Visible water → None
+    - [ ] Sediment / debris → None
 
-- [ ] Filter Checked
-  - [ ] Filter sump Complete
-  - [ ] White bucket sample Observed
-  - [ ] Preliminary filter DP Logged
-  - [ ] GPM value N/A → Morning check is past meter
+- [ ] Filter → Checked
+  - [ ] Filter sump → Complete
+  - [ ] White bucket sample → Observed
 
 - [ ] Morning-only fields Noted → Await top-off / flow event
 
@@ -76,10 +75,10 @@ Perform the once-per-24-hour sump and record the preliminary morning fuel-qualit
 
 **YES**
 
-- Stop fueling / QC progression
-- Escalate to supervisor
-- RECORD: Log discrepancy
-- Hold affected unit out of use as directed
+1. Stop fueling / QC progression
+2. Escalate to supervisor
+3. RECORD: Log discrepancy
+4. Hold affected unit out of use as directed
 
 **NO**
 
