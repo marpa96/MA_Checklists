@@ -44,11 +44,9 @@ Arrive ready to lead: tools, access, and safety posture in place.
 - [ ] Radio / comms Checked
 - [ ] Ear Protection → In Leg Pouch
 - [ ] Backup ear Protection → In Leg Pouch
-- [ ] Vest → Know it's location
 - [ ] Leather Gloves → In Leg Pouch
 - [ ] Chemical-Resistant Gloves → On Clip
-- [ ] Weather readiness Checked → Cleats/salt plan if freezing
-- [ ] Keys / access basics Confirmed → Line room / shop / gates as needed
+- [ ] Weather Checked
 
 ---
 
