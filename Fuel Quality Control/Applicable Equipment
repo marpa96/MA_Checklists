@@ -1,0 +1,112 @@
+521
+- Filter
+- Deadman Controls (pneumatic)
+- Brake Safety Interlock
+- Nozzle Fueling Pressure
+- Hoses, Nozzles, and Swivels
+- Static Reels, Cables, and Clamps
+- Fire Extinguishers
+- Air Tanks
+- Truck Troughs
+- Forward Tank
+- Aft Tank
+- Bottom Loading Pre-Check
+
+5250
+- Filter
+- Deadman Controls (Electronic)
+- Brake Safety Interlock
+- Nozzle Fueling Pressure
+- Hoses, Nozzles, and Swivels
+- Static Reels, Cables, and Clamps
+- Fire Extinguishers
+- Air Tanks
+- Truck Troughs
+- Forward Tank
+- Bottom Loading Pre-Check
+
+J-52
+- Filter
+ - Flow Rate (GPM)
+ - Differential Pressure (DP)
+- Deadman Controls (Electronic)
+- Brake Safety Interlocks
+- Hoses
+- Nozzles
+ - Over-Wing Nozzle 1
+ - Over-Wing Nozzle 2
+ - Single Point Nozzle
+  - Fueling Pressure
+- Swivels
+- Static Reels
+- Cables
+- Clamps
+- Fire Extinguishers
+- Air Tanks
+- Truck Troughs
+- Forward Tank
+- Bottom Loading Pre-Check
+
+J-50
+- Filter
+ - Flow Rate (GPM)
+ - Differential Pressure (DP)
+- Deadman Controls (Electronic)
+- Brake Safety Interlocks
+- Hoses
+- Nozzles
+ - Over-Wing Nozzle 1
+ - Over-Wing Nozzle 2
+ - Single Point Nozzle
+  - Fueling Pressure
+- Swivels
+- Static Reels
+- Cables
+- Clamps
+- Fire Extinguishers
+- Air Tanks
+- Truck Troughs
+- Forward Tank
+- Bottom Loading Pre-Check
+
+2425
+- Filter
+ - Flow Rate (GPM)
+ - Differential Pressure (DP)
+- Deadman Controls (Electronic)
+- Brake Safety Interlocks
+ - Overwing Nozzle 1 Interlock
+- Hoses
+- Nozzle 1
+ - Fueling Pressure
+- Swivels
+Static Discharge System
+ - Static Reels
+ - Cables
+ - Clamps
+- Fire Extinguishers
+- Air Tanks
+- Truck Troughs
+- Forward Tank
+- Bottom Loading Pre-Check
+
+2429
+- Filter
+- Deadman Controls (Electronic)
+- Brake Safety Interlock
+- Hoses
+ - Over-Wing Fueling Hose 1
+- Nozzles
+ - Nozzle 1
+  - Fueling Pressure
+ - Nozzle 2
+  - Fueling Pressure
+- Swivels
+- Static Reels
+- Cables
+- Clamps
+- Fire Extinguishers
+- Truck Troughs
+- Forward Tank
+- Bottom Loading Pre-Check
+
